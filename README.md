@@ -6,7 +6,7 @@ I'm a Data Scientist working on machine learning, biomedical data analysis, Gene
 
 ## 🔧 Technical Skills
 
-- **Programming:** Python, SQL, , MangoDB
+- **Programming:** Python, SQL
 - **Machine Learning:** Scikit-learn, XGBoost, Random Forest, Regression, Classification, Feature Engineering, Model Evaluation
 - **Deep Learning & NLP:** PyTorch, TensorFlow, NLP
 - **Generative AI:** LLMs, RAG, LangChain, Hugging Face, Embeddings, Semantic Search, Vector Databases
