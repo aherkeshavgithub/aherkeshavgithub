@@ -45,6 +45,6 @@ I'm a Data Scientist working on machine learning, biomedical data analysis, Gene
 
 ## 🤝 Connect With Me
 
-- LinkedIn: [Add your LinkedIn URL](https://www.linkedin.com/)
+- LinkedIn: www.linkedin.com/in/keshav-aher14
 - Email: keshavaher777@gmail.com
 
